@@ -1,9 +1,9 @@
 import "./App.css";
-import RenderingLists from "./components/RenderingLists";
+import SearchBar from "./components/SearchBar";
 
 function App() {
   return <div className="App">
-      <RenderingLists />
+      <SearchBar />
   </div>;
 }
 
